@@ -2,8 +2,7 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 /**
- * Search bar component for the homepage
- * Allows users to search for travel destinations with various criteria
+ * Search bar
  */
 const SearchBar = () => {
   const navigate = useNavigate();
