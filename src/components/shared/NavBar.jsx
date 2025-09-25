@@ -1,7 +1,7 @@
 import { Link, useLocation } from 'react-router-dom';
 
 /**
- * Navigation bar component that displays the main navigation menu
+ * Navigation bar component
  * Uses DaisyUI navbar component with responsive design
  */
 const NavBar = () => {
