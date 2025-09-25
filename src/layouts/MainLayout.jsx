@@ -2,9 +2,8 @@ import { Outlet } from 'react-router-dom';
 import { NavBar, Footer } from '../components';
 
 /**
- * Main layout component that wraps all pages
+ * Main layout component
  * Includes navigation bar and footer
- * Uses React Router's Outlet to render page content
  */
 const MainLayout = () => {
   return (
