@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 /**
- * Footer component that displays company information and navigation links
+ * Footer component 
  * Uses DaisyUI footer component with responsive design
  */
 const Footer = () => {
