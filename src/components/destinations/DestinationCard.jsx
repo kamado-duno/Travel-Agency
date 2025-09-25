@@ -1,9 +1,7 @@
 import { Link } from 'react-router-dom';
 
 /**
- * Destination card component that displays destination information
- * Used in the destinations list page
- * @param {Object} destination - The destination object containing id, slug, title, image, description
+ * Destination card 
  */
 const DestinationCard = ({ destination }) => {
   return (
