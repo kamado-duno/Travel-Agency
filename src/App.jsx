@@ -3,7 +3,7 @@ import { MainLayout } from './layouts';
 import { Home, Destinations, DestinationDetail, About, Contact } from './pages';
 
 /**
- * Main App component that sets up routing for the travel agency website
+ * Main App component
  * Uses React Router for navigation between different pages
  */
 function App() {
